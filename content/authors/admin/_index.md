@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Mathematics and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: M.Sc. in Statistics
-      institution: SUniversity of Costa Rica
+      institution: University of Costa Rica
       year: 2020
     - course: Bachelor's Degree in Mathematics Education
       institution: Costa Rica Institute of Technology
