@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alejandro Salas-Vargas
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alejandro
+last_name: Salas-Vargas
 
 # Status emoji
 status:
@@ -18,30 +18,30 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Distance State University
+    url: https://www.uned.ac.cr/ecen/ensenanza-de-la-matematica
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematical Education
+  - Statistical Education
+  - Bayesian Statistics
+  - Structural Equation Models (SEM)
+  - Functional Data Analysis
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Statistics
+      institution: SUniversity of Costa Rica
+      year: 2020
+    - course: Bachelor's Degree in Mathematics Education
+      institution: Costa Rica Institute of Technology
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,21 +51,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+<!--  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
-      header: true
+      header: true -->
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=5OQMGMwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alesalasv
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alejandro-salas-vargas-6bb132267/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDDnfmSUdQmCRAY%2FCuKhtbw%3D%3D
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He has been working as a professor at the Distance State University since 2015 and currently coordinates the Mathematics professorship for Engineering and Calculus in the Mathematics Education Program. Additionally, he is a professor at the School of Statistics of the University of Costa Rica, where he teaches courses in Statistical Theory and Continuous Probabilistic Models.
 {style="text-align: justify;"}
