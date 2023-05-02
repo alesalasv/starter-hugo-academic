@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-He has been working as a professor at the Distance State University since 2015 and currently coordinates the Mathematics professorship for Engineering and Calculus in the Mathematics Education Program. Additionally, he is a professor at the School of Statistics of the University of Costa Rica, where he teaches courses in Statistical Theory and Continuous Probabilistic Models.
+He has been working as a professor at the [Distance State University](https://www.uned.ac.cr/) since 2015 and currently coordinates the Mathematics professorship for Engineering and Calculus in the [Mathematics Education Program](https://www.uned.ac.cr/ecen/ensenanza-de-la-matematica). Additionally, he is a professor at the [School of Statistics](http://www.estadistica.ucr.ac.cr/index.php/es/) of the University of Costa Rica, where he teaches courses in Statistical Theory and Continuous Probabilistic Models.
 {style="text-align: justify;"}
